@@ -1,0 +1,13 @@
+../Core/Src/dynamixel_ax12.c:26:13:UART_WaitUntilTxComplete	3
+../Core/Src/dynamixel_ax12.c:40:26:Dynamixel_SendByte	1
+../Core/Src/dynamixel_ax12.c:48:6:Dynamixel_Init	1
+../Core/Src/dynamixel_ax12.c:63:19:Dynamixel_MoveSpeed	1
+../Core/Src/dynamixel_ax12.c:109:19:Dynamixel_SetSlope	1
+../Core/Src/dynamixel_ax12.c:147:19:Dynamixel_SetPunch	1
+../Core/Src/dynamixel_ax12.c:189:19:Dynamixel_SetAngle	3
+../Core/Src/dynamixel_ax12.c:206:19:Dynamixel_SetMaxTorque	2
+../Core/Src/dynamixel_ax12.c:251:19:Dynamixel_LockEEPROM	1
+../Core/Src/dynamixel_ax12.c:286:19:Dynamixel_ReadPosition	5
+../Core/Src/dynamixel_ax12.c:336:19:Dynamixel_Ping	1
+../Core/Src/dynamixel_ax12.c:373:19:Dynamixel_Reset	1
+../Core/Src/dynamixel_ax12.c:405:19:Start_Pose_SYNC	3
