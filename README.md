@@ -1,6 +1,6 @@
 # Servo Dynamixel AX12 Library for STM32 HAL
 
-![Dynamixel AX12 Servo](![Image](https://github.com/user-attachments/assets/60799ba2-2870-4c05-a430-3b95ad65013d))
+![Image](https://github.com/user-attachments/assets/60799ba2-2870-4c05-a430-3b95ad65013d))
 
 A comprehensive STM32 HAL-based library for controlling Dynamixel AX12/AX12A servo motors. This library provides a simple and efficient interface for controlling these high-performance servo motors in your robotics projects.
 
